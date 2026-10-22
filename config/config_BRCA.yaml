@@ -1,0 +1,19 @@
+tasks:
+  diagnosis:
+    num_classes: 3
+    class_names: ["Inv. Duct. Carc.", "Inv. Lob. Carc.", "Other"]
+  grade:
+    num_classes: 3
+    class_names: ["Grade 1", "Grade 2", "Grade 3"]
+  nuclear_pleomorphism:
+    num_classes: 3
+    class_names: ["High", "Moderate", "Low"]
+  mitotic_activity:
+    num_classes: 3
+    class_names: ["High", "Moderate", "Low"]
+  tubular_formation:
+    num_classes: 3
+    class_names: ["High", "Moderate", "Low"]
+  LVI:
+    num_classes: 2
+    class_names: ["Present", "Absent"]

@@ -1,0 +1,2645 @@
+[
+  {
+    "id": "Report_TCGA-AN-A0AR-01Z-00-DX1.0CF1267E-C61B-4928-875E-59032F838F07-1",
+    "image": "TCGA-BRCA/TCGA-AN-A0AR-01Z-00-DX1.0CF1267E-C61B-4928-875E-59032F838F07.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, poorly differentiated",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "poorly differentiated, Nottingham Histologic Grade 3 (NHG3)",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not present.",
+        "confidence": 0.97
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A1F5-01Z-00-DX1.9A1AA3BB-80B1-473D-B075-8D65A94C4E0B-1",
+    "image": "TCGA-BRCA/TCGA-BH-A1F5-01Z-00-DX1.9A1AA3BB-80B1-473D-B075-8D65A94C4E0B.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "reveals invasive ductal carcinoma",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2) with a total score of 7",
+        "confidence": 0.97
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei exhibit pronounced pleomorphism with variability in size and shape, receiving a nuclear pleomorphism score of 3.",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The mitotic activity is low, corresponding to a score of 1.",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The tumor's tubule formation is assigned a score of 3, signifying minimal gland formation.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "lymphovascular invasion is evident",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A0YC-01Z-00-DX1.F01F2268-17D8-45FD-8917-FD89454D0709-1",
+    "image": "TCGA-BRCA/TCGA-A2-A0YC-01Z-00-DX1.F01F2268-17D8-45FD-8917-FD89454D0709.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is moderately differentiated infiltrating ductal carcinoma",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Scarff-Bloom-Richardson Grade II",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.98
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "a moderate rate of cell division observed",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "infiltrating the surrounding stroma with moderate formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not present.",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-PL-A8LV-01A-02-DX2.346FF42B-2363-4B37-8884-12D5F841842C-1",
+    "image": "TCGA-BRCA/TCGA-PL-A8LV-01A-02-DX2.346FF42B-2363-4B37-8884-12D5F841842C.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 2,
+        "text": "medullary carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is medullary adenocarcinoma",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is medullary adenocarcinoma.",
+        "confidence": 0.0
+      },
+      "nuclear_pleomorphism": {
+        "label": -1,
+        "text": "nuclear pleomorphism (unspecified)",
+        "components": [],
+        "evidence": "The tumor cells exhibit pleomorphic hyperchromatic nuclei",
+        "confidence": 0.74
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is medullary adenocarcinoma.",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "invasive tumor growing in trabecular, cords, syncytium, solid nests",
+        "confidence": 0.86
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is medullary adenocarcinoma.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AO-A1KR-01Z-00-DX1.BFB2E69B-E23C-4542-9CBF-EDD040B985AC-1",
+    "image": "TCGA-BRCA/TCGA-AO-A1KR-01Z-00-DX1.BFB2E69B-E23C-4542-9CBF-EDD040B985AC.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, poorly differentiated, Nottingham Histologic Grade 3 (NHG3)",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 3 (NHG3)",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "nuclear grade II/III (marked variation in size and shape)",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, poorly differentiated, Nottingham Histologic Grade 3 (NHG3) with a total score of 9 out of 9",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "poorly differentiated invasive carcinoma with minimal tubule formation",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No vascular invasion is noted.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775-1",
+    "image": "TCGA-BRCA/TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, Nottingham grade II (score of 6/9)",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham grade II (score of 6/9)",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "nuclear pleomorphism score of 2/3",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "mitotic count score of 1/3",
+        "confidence": 0.99
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "minimal formation of glandular structures, with a tubule formation score of 3/3",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not present",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A8-A08I-01Z-00-DX1.96A0065E-5430-40F6-835E-1A7238A79DDA-1",
+    "image": "TCGA-BRCA/TCGA-A8-A08I-01Z-00-DX1.96A0065E-5430-40F6-835E-1A7238A79DDA.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is poorly differentiated invasive ductal carcinoma",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "poorly differentiated invasive ductal carcinoma",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The cells display marked nuclear pleomorphism.",
+        "confidence": 0.97
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "moderate to high rate of mitotic activity observed",
+        "confidence": 0.94
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "minimal formation of glandular structures",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "there is no mention of vascular invasion in the provided details",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A04V-01Z-00-DX1.EB430DDB-8FE9-4302-8829-53DBAD09E79F-1",
+    "image": "TCGA-BRCA/TCGA-A2-A04V-01Z-00-DX1.EB430DDB-8FE9-4302-8829-53DBAD09E79F.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, Grade II (total score of 6 out of 9)",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "infiltrating ductal carcinoma, Grade II (total score of 6 out of 9)",
+        "confidence": 0.97
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "nuclear pleomorphism score of 2",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The cell division rate is low, corresponding to a mitotic count score of 1.",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "glandular (tubule) formation score of 3.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No lymphovascular invasion is observed.",
+        "confidence": 0.97
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A4RY-01Z-00-DX1.143E32FC-E10F-4590-9C72-32094B24EF8C-1",
+    "image": "TCGA-BRCA/TCGA-A2-A4RY-01Z-00-DX1.143E32FC-E10F-4590-9C72-32094B24EF8C.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, pleomorphic type",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "nuclear grade of 2 to 3 out of 3",
+        "confidence": 0.64
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate to severe pleomorphism, indicative of a nuclear grade of 2 to 3 out of 3.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "Mitotic figures are infrequent, corresponding to a low mitotic index.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": -1,
+        "text": "glandular/tubular formation (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, pleomorphic type",
+        "confidence": 0.0
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "There is evidence of vascular invasion in perinodal soft tissue.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A1FM-01Z-00-DX1.860C5169-FE2B-43A6-A13D-E736374303DD-1",
+    "image": "TCGA-BRCA/TCGA-BH-A1FM-01Z-00-DX1.860C5169-FE2B-43A6-A13D-E736374303DD.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, moderately differentiated",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "moderately differentiated, Nottingham Histologic Grade 2 (NHG2) with a total score of 6 out of 9.",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed",
+        "confidence": 0.96
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, moderately differentiated, Nottingham Histologic Grade 2 (NHG2)",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A04U-01Z-00-DX1.06D17357-46A8-4DC3-A22B-2F4EB6EE3F79-1",
+    "image": "TCGA-BRCA/TCGA-A2-A04U-01Z-00-DX1.06D17357-46A8-4DC3-A22B-2F4EB6EE3F79.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, poorly differentiated",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Bloom and Richardson Grade 3",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "invasive ductal carcinoma cells with a high degree of nuclear pleomorphism (score of 3)",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "a high mitotic rate (score of 3)",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "little to no formation of glandular or tubular structures (tubule formation score of 3)",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not present.",
+        "confidence": 0.97
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A0B4-01Z-00-DX1.A2CB0BF4-32F9-48FD-9B96-A744013BADDB-1",
+    "image": "TCGA-BRCA/TCGA-BH-A0B4-01Z-00-DX1.A2CB0BF4-32F9-48FD-9B96-A744013BADDB.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma.",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 3 due to the total score of 9 out of 9",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "nuclear pleomorphism score of 3",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "high mitotic activity observed, indicating a mitotic count score of 3",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "characterized by tubule formation score of 3",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "no presence of angiolymphatic invasion",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E9-A1RH-01Z-00-DX1.CC9CEDCC-7BF2-4C96-A0F1-C98071DA2CD3-1",
+    "image": "TCGA-BRCA/TCGA-E9-A1RH-01Z-00-DX1.CC9CEDCC-7BF2-4C96-A0F1-C98071DA2CD3.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, poorly differentiated, Grade 3",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, poorly differentiated, Grade 3.",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": -1,
+        "text": "nuclear pleomorphism (unspecified)",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, poorly differentiated, Grade 3.",
+        "confidence": 0.0
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "without a detailed Nottingham score",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "poorly differentiated epithelial cells infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not observed.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A7-A13D-01Z-00-DX1.D206783C-FA6A-4B6A-B3AA-4132A2C9626B-1",
+    "image": "TCGA-BRCA/TCGA-A7-A13D-01Z-00-DX1.D206783C-FA6A-4B6A-B3AA-4132A2C9626B.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, grade III (overall score 9/9)",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "overall histologic grade of III based on the Nottingham grading system",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The cells exhibit significant nuclear pleomorphism with a nuclear score of 3",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "The mitotic activity is high, with a mitotic score of 3",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The architectural score is 3, indicating poor formation of glandular structures.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not identified.",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AC-A3YI-01Z-00-DX1.321C0A32-ABF9-48ED-8071-C6B1774E9F7B-1",
+    "image": "TCGA-BRCA/TCGA-AC-A3YI-01Z-00-DX1.321C0A32-ABF9-48ED-8071-C6B1774E9F7B.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, Nottingham grade 1-2",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham grade 1-2.",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape.",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "Mitoses are relatively rare, with approximately one mitotic figure observed per ten high-power fields.",
+        "confidence": 0.9
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "evidence of glandular formation which matches with a tubule formation score between 2.",
+        "confidence": 0.86
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these microscopic findings, the diagnosis is invasive lobular carcinoma, Nottingham grade 1-2.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A0HX-01Z-00-DX1.44EBA39E-383D-4820-915E-4E5FDA1D43DA-1",
+    "image": "TCGA-BRCA/TCGA-BH-A0HX-01Z-00-DX1.44EBA39E-383D-4820-915E-4E5FDA1D43DA.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "total score to 8 out of 9, indicating Nottingham Grade 3",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei demonstrate moderate variability in size and shape, assigning a nuclear pleomorphism score of 2.",
+        "confidence": 0.97
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "A high rate of cell division is evident, corresponding to a mitotic activity score of 3",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The tumor cells exhibit a high degree of tubule formation deviation, with a score of 3 for poor differentiation.",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-B6-A0WX-01Z-00-DX1.1C4F7BCC-8423-4941-9490-0F35038E1878-1",
+    "image": "TCGA-BRCA/TCGA-B6-A0WX-01Z-00-DX1.1C4F7BCC-8423-4941-9490-0F35038E1878.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "designated as grade 3 of 3 following the N.S.A.B.P. grading system, signifying poor differentiation",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei exhibit marked variability in size and shape, indicative of high nuclear pleomorphism.",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "There is a high mitotic rate observed, consistent with active cell division.",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The glandular structures are scarce and irregular, significantly deviating from normal tissue architecture.",
+        "confidence": 0.9
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "no lymphatic or vascular invasion is detected",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-B6-A0I9-01Z-00-DX1.78E1D43A-507E-482E-B988-AF13B12B4497-1",
+    "image": "TCGA-BRCA/TCGA-B6-A0I9-01Z-00-DX1.78E1D43A-507E-482E-B988-AF13B12B4497.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "infiltrating duct carcinoma, moderately differentiated",
+        "confidence": 0.96
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "infiltrating duct carcinoma, moderately differentiated",
+        "confidence": 0.9
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed",
+        "confidence": 0.9
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.93
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Vascular invasion is identified, with carcinoma cells seen within blood vessels.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-OL-A66N-01Z-00-DX1.ABDA3014-7B3A-4D48-A415-CB9608491ECB-1",
+    "image": "TCGA-BRCA/TCGA-OL-A66N-01Z-00-DX1.ABDA3014-7B3A-4D48-A415-CB9608491ECB.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, SBR grade II",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "invasive lobular carcinoma, SBR grade II",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, with a nuclear grade of 2.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "There is a low rate of cell division observed, correlating to a mitotic rate score of 1.",
+        "confidence": 0.99
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "corresponding to an architecture score of 3.",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular and lymphatic invasion are absent.",
+        "confidence": 0.96
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E2-A1IO-01Z-00-DX1.C812D02F-3B40-496B-9EF5-7F68ADE64962-1",
+    "image": "TCGA-BRCA/TCGA-E2-A1IO-01Z-00-DX1.C812D02F-3B40-496B-9EF5-7F68ADE64962.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Scarff-Bloom-Richardson Grade 3.",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, Scarff-Bloom-Richardson Grade 3.",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, with a nuclear grade of 2.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "There is a high rate of cell division observed, corresponding to a mitotic score of 3.",
+        "confidence": 0.97
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the stroma with minimal formation of glandular structures, corresponding to a tubular score of 3.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular and lymphatic invasion are not identified.",
+        "confidence": 0.99
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-C8-A12K-01Z-00-DX1.D71C7974-65F7-4EF0-8FFB-9F27CEC85242-1",
+    "image": "TCGA-BRCA/TCGA-C8-A12K-01Z-00-DX1.D71C7974-65F7-4EF0-8FFB-9F27CEC85242.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma",
+        "confidence": 0.9
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Cellular differentiation is moderate to poor.",
+        "confidence": 0.86
+      },
+      "nuclear_pleomorphism": {
+        "label": -1,
+        "text": "nuclear pleomorphism (unspecified)",
+        "components": [],
+        "evidence": "Nuclear characteristics demonstrate anisonucleosis, hyperchromatism, prominent nucleoli, and the presence of multinucleated giant cells.",
+        "confidence": 0.64
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "Mitotic activity is elevated.",
+        "confidence": 0.44
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "Cellular differentiation is moderate to poor.",
+        "confidence": 0.7
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is infiltrating ductal carcinoma.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A0EA-01Z-00-DX1.85FF2B48-2AF7-4C15-A7E6-FCA68CAB76C7-1",
+    "image": "TCGA-BRCA/TCGA-BH-A0EA-01Z-00-DX1.85FF2B48-2AF7-4C15-A7E6-FCA68CAB76C7.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma with focal tubular features",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2)",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, with a nuclear pleomorphism score of 2.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "There is a low rate of cell division observed, corresponding to a mitotic count score of 1.",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "glandular (acinar) tubular differentiation score of 2",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not observed.",
+        "confidence": 0.97
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-D8-A1XC-01Z-00-DX1.E7494388-838B-4D35-9CA1-77017CBE77F2-1",
+    "image": "TCGA-BRCA/TCGA-D8-A1XC-01Z-00-DX1.E7494388-838B-4D35-9CA1-77017CBE77F2.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 2,
+        "text": "mucinous carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive mucinous carcinoma",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2) with a total score of 6 (3+2+1)",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "Nuclei exhibit moderate variability in size and shape, with a nuclear pleomorphism score of 2.",
+        "confidence": 0.99
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The mitotic count is relatively low, with a score of 1 (5 mitoses per 10 high power fields)",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The tumor demonstrates moderate glandular differentiation, corresponding to a tubular differentiation score of 3.",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not observed.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-C8-A1HL-01Z-00-DX1.CC21CAE9-DE48-4ADE-A959-5A99010AAFAC-1",
+    "image": "TCGA-BRCA/TCGA-C8-A1HL-01Z-00-DX1.CC21CAE9-DE48-4ADE-A959-5A99010AAFAC.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma.",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma",
+        "confidence": 0.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei of the tumor cells exhibit moderate pleomorphism",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "moderate rate of mitotic activity noted",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "There is minimal glandular differentiation",
+        "confidence": 0.92
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No evidence of vascular invasion is observed in the examined slide.",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A0BP-01Z-00-DX1.63A87C1D-87FA-494D-9836-74290B5DC30D-1",
+    "image": "TCGA-BRCA/TCGA-BH-A0BP-01Z-00-DX1.63A87C1D-87FA-494D-9836-74290B5DC30D.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, Nottingham Score 6/9 (Grade 2)",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Score 6/9 (Grade 2)",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, corresponding to a nuclear pleomorphism score of 2.",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "There is a low rate of cell division observed, corresponding to a mitotic count score of 1.",
+        "confidence": 0.99
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "with a differentiation score of 3.",
+        "confidence": 0.87
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Lymphovascular space involvement is not prominent",
+        "confidence": 0.66
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AC-A23C-01Z-00-DX1.0E67C785-83D3-49AF-B600-FB5B909AE6ED-1",
+    "image": "TCGA-BRCA/TCGA-AC-A23C-01Z-00-DX1.0E67C785-83D3-49AF-B600-FB5B909AE6ED.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Nottingham Histologic Grade 1",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, Nottingham Histologic Grade 1, with a total score of 5/9",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, corresponding to a nuclear score of 2/3.",
+        "confidence": 0.97
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "mitotic score of 1/3, suggesting a low rate of cell division",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "The architectural score is 2/3, indicating moderate glandular differentiation with some retention of tubule formation.",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, Nottingham Histologic Grade 1",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A7-A6VX-01Z-00-DX1.F74DA243-C65A-4997-BCA0-F1C89675978C-1",
+    "image": "TCGA-BRCA/TCGA-A7-A6VX-01Z-00-DX1.F74DA243-C65A-4997-BCA0-F1C89675978C.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, grade 3",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, grade 3.",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei demonstrate pronounced variability in size and shape, correlating with a high nuclear grade",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderately high rate of cell division observed",
+        "confidence": 0.7
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "exhibiting minimal formation of glandular structures",
+        "confidence": 0.9
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not identified.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-D8-A1JP-01Z-00-DX1.B02959C4-6AAD-4ACA-9838-61D224D838E4-1",
+    "image": "TCGA-BRCA/TCGA-D8-A1JP-01Z-00-DX1.B02959C4-6AAD-4ACA-9838-61D224D838E4.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, moderately differentiated, Nottingham Histologic Grade 2 (NHG2).",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2)",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei display moderate variability in size and shape, corresponding to a nuclear pleomorphism of moderate grade.",
+        "confidence": 0.98
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, moderately differentiated, Nottingham Histologic Grade 2 (NHG2)",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The epithelial cells infiltrate the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.9
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Vascular invasion and calcifications were not specified as present within the slide section.",
+        "confidence": 0.35
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E2-A10E-01Z-00-DX1.C45030A9-CC1A-4BA7-8F62-872619C5AD5E-1",
+    "image": "TCGA-BRCA/TCGA-E2-A10E-01Z-00-DX1.C45030A9-CC1A-4BA7-8F62-872619C5AD5E.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Scarff-Bloom-Richardson Grade 1.",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, Scarff-Bloom-Richardson Grade 1.",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit mild variability in size and shape, corresponding to a nuclear grade of 2.",
+        "confidence": 0.93
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The rate of cell division is low, corresponding to a mitotic score of 1.",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "with partial formation of glandular structures that moderately deviate from normal tissue architecture, indicating a tubular differentiation score of 2.",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No vascular or lymphatic invasion is identified",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2-1",
+    "image": "TCGA-BRCA/TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating duct carcinoma, moderately differentiated",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "diagnosis is infiltrating duct carcinoma, moderately differentiated.",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The tumor cells exhibit moderate variability in nuclear size and shape, indicating nuclear pleomorphism.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "A moderate rate of mitotic figures is observed.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "forming glandular structures moderately deviating from normal tissue architecture.",
+        "confidence": 0.78
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Vascular invasion is not specifically noted.",
+        "confidence": 0.4
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E2-A1L6-01Z-00-DX1.AFE87067-2BFD-42C2-9334-9DDE8AB61B49-1",
+    "image": "TCGA-BRCA/TCGA-E2-A1L6-01Z-00-DX1.AFE87067-2BFD-42C2-9334-9DDE8AB61B49.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, well-differentiated",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 1 (NHG1)",
+        "confidence": 0.97
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit mild variability in size and shape, with a Nuclear Pleomorphism score of 2.",
+        "confidence": 0.99
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "There is a low rate of cell division observed, corresponding to a Mitotic rate score of 1.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "Glandular (Tubular) formation score of 3.",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not present.",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A1G6-01Z-00-DX1.BCC3EC46-CEBF-4B37-BCF0-266D18170B54-1",
+    "image": "TCGA-BRCA/TCGA-A2-A1G6-01Z-00-DX1.BCC3EC46-CEBF-4B37-BCF0-266D18170B54.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, Nottingham Histologic Grade 3 (NHG3)",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 3 (NHG3)",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "nuclei display marked variability in size and shape, corresponding to a nuclear pleomorphism score of 3",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "mitotic count score of 3",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "poorly-formed glandular structures comprised of infiltrating epithelial cells, significantly deviating from normal tissue architecture with a differentiation score of 3.",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "no prominent vascular invasion is noted",
+        "confidence": 0.8
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A8-A06Y-01Z-00-DX1.3BC58446-524E-43F3-AAE6-FBC4AA543E66-1",
+    "image": "TCGA-BRCA/TCGA-A8-A06Y-01Z-00-DX1.3BC58446-524E-43F3-AAE6-FBC4AA543E66.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, malignancy grade II, with concomitant high-grade comedo-type DCIS",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma, malignancy grade II",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, consistent with a nuclear pleomorphism score indicative of grade II.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "There is a moderate mitotic activity observed",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the surrounding stroma with a moderate formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "vascular invasion is not present in the examined sample",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AO-A0JF-01Z-00-DX1.3277D13C-F257-4D4C-AB5C-BEBA2E1A63D8-1",
+    "image": "TCGA-BRCA/TCGA-AO-A0JF-01Z-00-DX1.3277D13C-F257-4D4C-AB5C-BEBA2E1A63D8.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma.",
+        "confidence": 0.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei show notable variability in size and shape, indicative of moderate nuclear pleomorphism.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "There is an observed moderate rate of cell division.",
+        "confidence": 0.97
+      },
+      "tubular_formation": {
+        "label": -1,
+        "text": "glandular/tubular formation (unspecified)",
+        "components": [],
+        "evidence": "forming irregular clusters and glandular structures",
+        "confidence": 0.2
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No vascular invasion is noted.",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AQ-A54N-01Z-00-DX1.E53271E9-AFD2-4071-9B1E-CD05F63B8136-1",
+    "image": "TCGA-BRCA/TCGA-AQ-A54N-01Z-00-DX1.E53271E9-AFD2-4071-9B1E-CD05F63B8136.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Nottingham combined histologic grade 3.",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, Nottingham combined histologic grade 3",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei display marked variability in size and shape, indicative of severe nuclear pleomorphism, scoring 3.",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "A high mitotic activity is evident, indicated by a mitotic count score of 3.",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "form few glandular structures, corresponding to a tubule formation score of 3.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "There is no evidence of vascular invasion, in situ component, skin involvement, microcalcifications, or nipple involvement within the examined tissue.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A7-A13G-01Z-00-DX1.C258C545-8C1F-41D4-846F-962A746CBDFB-1",
+    "image": "TCGA-BRCA/TCGA-A7-A13G-01Z-00-DX1.C258C545-8C1F-41D4-846F-962A746CBDFB.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, well-differentiated, Elston SBR grade 1",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "Elston SBR grade 1",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The tumor cells exhibit minimal nuclear variability with a nuclear pleomorphism score ranging from 1 to 2.",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The rate of cell division is low, corresponding to a mitotic count score of 1.",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 0,
+        "text": "glandular/tubular formation (high)",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, well-differentiated",
+        "confidence": 0.82
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "There is no evidence of vascular invasion",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A7-A0DB-01Z-00-DX2.6C6A5F9C-294F-4A86-A0F1-B68D4729B535-1",
+    "image": "TCGA-BRCA/TCGA-A7-A0DB-01Z-00-DX2.6C6A5F9C-294F-4A86-A0F1-B68D4729B535.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma and ductal carcinoma in situ.",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "The tumor is moderately differentiated",
+        "confidence": 0.9
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The tumor is moderately differentiated, exhibiting an architectural score of 2-3, a nuclear score of 2-3, and a mitotic score of 1.",
+        "confidence": 0.93
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "tumor is moderately differentiated ... mitotic score of 1",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "architectural score of 2-3",
+        "confidence": 0.86
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "No vessel invasion is identified.",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-GI-A2C8-01Z-00-DX1.09BD8AC9-645A-4C8B-9B36-77D833BDBA09-1",
+    "image": "TCGA-BRCA/TCGA-GI-A2C8-01Z-00-DX1.09BD8AC9-645A-4C8B-9B36-77D833BDBA09.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma.",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "tubular differentiation score of 3. The nuclei exhibit marked variability in size and shape, indicative of a high nuclear pleomorphism score of 3",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "high nuclear pleomorphism score of 3",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed, represented by a mitotic count score of 2.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "minimal formation of glandular structures, significantly deviating from normal tissue architecture, which corresponds to a tubular differentiation score of 3.",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Angiolymphatic invasion is present, particularly within dermal lymphatics",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A4S0-01Z-00-DX1.5878187D-325F-4274-BE41-86BB2BA5F841-1",
+    "image": "TCGA-BRCA/TCGA-A2-A4S0-01Z-00-DX1.5878187D-325F-4274-BE41-86BB2BA5F841.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Grade 1",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma, Grade 1.",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 2,
+        "text": "nuclear pleomorphism (low/absent)",
+        "components": [],
+        "evidence": "The nuclei exhibit minimal variability in size and shape, corresponding to a low nuclear pleomorphism score.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "The rate of cell division is observed to be low, consistent with a low mitotic index.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": -1,
+        "text": "glandular/tubular formation (unspecified)",
+        "components": [],
+        "evidence": "forming tubular structures indicative of glandular differentiation",
+        "confidence": 0.33
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion, specifically lymphatic invasion, is not present.",
+        "confidence": 0.99
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E2-A15L-01Z-00-DX1.626032DC-D396-48E7-B888-DFEBCF7102FF-1",
+    "image": "TCGA-BRCA/TCGA-E2-A15L-01Z-00-DX1.626032DC-D396-48E7-B888-DFEBCF7102FF.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, moderately differentiated",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "moderately differentiated, Modified Scarff-Bloom-Richardson Grade 2 (total score: 6 out of 9)",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, corresponding to a nuclear grade of 2.",
+        "confidence": 0.96
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "A low rate of cell division is observed, corresponding to a mitotic score of 1.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "minimal formation of glandular structures",
+        "confidence": 0.96
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular or lymphatic invasion is not identified.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-LL-A5YP-01Z-00-DX1.ADA978DF-6625-4C4D-AE0C-F589B2BA4897-1",
+    "image": "TCGA-BRCA/TCGA-LL-A5YP-01Z-00-DX1.ADA978DF-6625-4C4D-AE0C-F589B2BA4897.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is invasive ductal carcinoma with high-grade DCIS",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 3 with a total score of 9 (3+3+3) out of 9.",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei exhibit marked variability in size and shape, with dense chromatin and prominent nucleoli, corresponding to a nuclear pleomorphism score of 3.",
+        "confidence": 0.98
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "The tumor cells show a high rate of division, with frequent mitotic figures noted, resulting in a mitotic rate score of 3.",
+        "confidence": 0.98
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "Invasive components ... with no significant formation of glandular structures observed (glandular differentiation score of 3).",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is invasive ductal carcinoma with high-grade DCIS and extensive tumor necrosis, Nottingham Histologic Grade 3.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AR-A24L-01Z-00-DX1.218A0AE1-D070-4A16-A277-31185F10724D-1",
+    "image": "TCGA-BRCA/TCGA-AR-A24L-01Z-00-DX1.218A0AE1-D070-4A16-A277-31185F10724D.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, Nottingham grade 2 (of 3)",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "invasive ductal carcinoma, Nottingham grade 2 (of 3)",
+        "confidence": 0.95
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.93
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed",
+        "confidence": 0.93
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the surrounding stroma with a moderate degree of glandular formation",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Vascular invasion is present, with tumor cells identified within blood vessels.",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1-1",
+    "image": "TCGA-BRCA/TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, moderately differentiated",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "infiltrating ductal carcinoma, moderately differentiated",
+        "confidence": 0.93
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.94
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed, suggesting an intermediate mitotic activity.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "forming glandular structures that moderately deviate from normal tissue architecture",
+        "confidence": 0.88
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not observed.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-D8-A1X5-01Z-00-DX1.81B10B43-0D99-44D0-A245-D652041B8FEE-1",
+    "image": "TCGA-BRCA/TCGA-D8-A1X5-01Z-00-DX1.81B10B43-0D99-44D0-A245-D652041B8FEE.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 2,
+        "text": "mixed carcinoma",
+        "components": [
+          "invasive ductal carcinoma",
+          "rare carcinoma subtype"
+        ],
+        "evidence": "diagnosis is invasive ductal carcinoma, partially signet ring cell carcinoma",
+        "confidence": 0.86
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2) with a total score of 7 (3+3+1)",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "Nuclear pleomorphism shows moderate variability in size and shape (score of 3).",
+        "confidence": 0.97
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "A moderate rate of mitotic figures is observed",
+        "confidence": 0.7
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "glandular differentiation (score of 3)",
+        "confidence": 0.93
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "There is evidence of vascular invasion, noted by emboli of carcinomatous cells within vessels.",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AC-A3BB-01Z-00-DX1.CE889249-2A5E-44DA-B04E-746BE82CD805-1",
+    "image": "TCGA-BRCA/TCGA-AC-A3BB-01Z-00-DX1.CE889249-2A5E-44DA-B04E-746BE82CD805.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, grade 2 (cumulative Nottingham score of 6 out of 9)",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "diagnosis is invasive lobular carcinoma, grade 2 (cumulative Nottingham score of 6 out of 9)",
+        "confidence": 0.96
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei display moderate variability in size and shape, consistent with an intermediate nuclear pleomorphism score.",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 2,
+        "text": "mitotic activity (low/absent)",
+        "components": [],
+        "evidence": "A low mitotic rate is observed, with about 2 mitoses per ten high power fields, corresponding to a low mitotic count score.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "less than 5% tubule formation, indicating poor differentiation of glandular structures",
+        "confidence": 0.99
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not identified.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-EW-A423-01Z-00-DX1.31502D62-9C83-4A9C-9682-05A185486EAA-1",
+    "image": "TCGA-BRCA/TCGA-EW-A423-01Z-00-DX1.31502D62-9C83-4A9C-9682-05A185486EAA.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive lobular carcinoma, Nottingham grade 2",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "invasive lobular carcinoma, Nottingham grade 2",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei show moderate variability in size and shape",
+        "confidence": 0.92
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "The mitotic rate is moderate, corresponding to a score of 2.",
+        "confidence": 0.96
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "irregular glandular structures forming in less than 10% of the tumor area",
+        "confidence": 0.98
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not identified.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A8-A09R-01Z-00-DX1.392580F3-0CE5-4EDB-91CF-814AAD0DB649-1",
+    "image": "TCGA-BRCA/TCGA-A8-A09R-01Z-00-DX1.392580F3-0CE5-4EDB-91CF-814AAD0DB649.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, moderately differentiated",
+        "confidence": 0.99
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 2 (NHG2)",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, with a nuclear pleomorphism score of 2",
+        "confidence": 1.0
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "moderate rate of cell division observed",
+        "confidence": 0.78
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "assigning a glandular (tubular) differentiation score of 2",
+        "confidence": 0.99
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is invasive ductal carcinoma, moderately differentiated",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-B6-A0RU-01Z-00-DX1.4977531C-6003-4DA6-9925-30E2DA62C076-1",
+    "image": "TCGA-BRCA/TCGA-B6-A0RU-01Z-00-DX1.4977531C-6003-4DA6-9925-30E2DA62C076.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 2,
+        "text": "metaplastic carcinoma",
+        "components": [],
+        "evidence": "diagnosis is comedo intraductal and infiltrating carcinoma with sarcomatous metaplasia",
+        "confidence": 0.77
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "histologic grade 3",
+        "confidence": 0.99
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "The nuclei display significant abnormalities... with a nuclear grade of 3 out of 3.",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is comedo intraductal and infiltrating carcinoma with sarcomatous metaplasia, histologic grade 3.",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "infiltrating ductal structures with minimal tubule formation",
+        "confidence": 0.9
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is comedo intraductal and infiltrating carcinoma with sarcomatous metaplasia, histologic grade 3",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E9-A1N8-01Z-00-DX1.1243AB1C-75A3-4A5E-9674-53992E6DD377-1",
+    "image": "TCGA-BRCA/TCGA-E9-A1N8-01Z-00-DX1.1243AB1C-75A3-4A5E-9674-53992E6DD377.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "minimal formation of glandular structures",
+        "confidence": 0.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.96
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "there is a moderate rate of cell division observed",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 1,
+        "text": "vascular/lymphovascular invasion (absent)",
+        "components": [],
+        "evidence": "Vascular invasion is not noted.",
+        "confidence": 0.95
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-B6-A0RI-01Z-00-DX1.E39951A4-AC6A-4B07-851B-F35CB86D79AA-1",
+    "image": "TCGA-BRCA/TCGA-B6-A0RI-01Z-00-DX1.E39951A4-AC6A-4B07-851B-F35CB86D79AA.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "NSABP histologic grade 3",
+        "confidence": 0.97
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape, indicating a nuclear grade that is moderately differentiated.",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "There is a moderate to high rate of cell division observed",
+        "confidence": 0.9
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "infiltrating the surrounding stroma with minimal formation of glandular structures",
+        "confidence": 0.95
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Vascular invasion is evident, with tumor cells present within blood vessels.",
+        "confidence": 0.99
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-E9-A226-01Z-00-DX1.14f1f4c7-4e6e-4574-af20-60d2ab511b2a-1",
+    "image": "TCGA-BRCA/TCGA-E9-A226-01Z-00-DX1.14f1f4c7-4e6e-4574-af20-60d2ab511b2a.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive ductal carcinoma",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is infiltrating ductal carcinoma, moderately differentiated.",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 1,
+        "text": "Grade 2",
+        "components": [],
+        "evidence": "diagnosis is infiltrating ductal carcinoma, moderately differentiated.",
+        "confidence": 0.96
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The nuclei exhibit moderate variability in size and shape",
+        "confidence": 0.95
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "There is a moderate rate of cell division observed.",
+        "confidence": 0.95
+      },
+      "tubular_formation": {
+        "label": 1,
+        "text": "glandular/tubular formation (moderate)",
+        "components": [],
+        "evidence": "glandular structures that moderately deviate from normal tissue architecture",
+        "confidence": 0.78
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating ductal carcinoma, moderately differentiated.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-AC-A2QH-01Z-00-DX1.00B8BFFF-F1E2-4F99-A969-8DD7EE4F8E0B-1",
+    "image": "TCGA-BRCA/TCGA-AC-A2QH-01Z-00-DX1.00B8BFFF-F1E2-4F99-A969-8DD7EE4F8E0B.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 2,
+        "text": "metaplastic carcinoma",
+        "components": [],
+        "evidence": "matrix-producing carcinoma, a subtype of metaplastic carcinoma",
+        "confidence": 0.96
+      },
+      "grade": {
+        "label": 2,
+        "text": "Grade 3",
+        "components": [],
+        "evidence": "Nottingham Histologic Grade 3 (NHG3) with a total score of 9 (3+3+3) out of 9.",
+        "confidence": 1.0
+      },
+      "nuclear_pleomorphism": {
+        "label": 0,
+        "text": "nuclear pleomorphism (high)",
+        "components": [],
+        "evidence": "highly anaplastic nuclear features",
+        "confidence": 0.96
+      },
+      "mitotic_activity": {
+        "label": 0,
+        "text": "mitotic activity (high)",
+        "components": [],
+        "evidence": "High rates of mitosis are observed, corresponding to a mitotic count score of 3.",
+        "confidence": 1.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "No discernible glandular differentiation is evident.",
+        "confidence": 1.0
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "there is lymphatic invasion near the periphery of the tumor",
+        "confidence": 0.98
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-A2-A0CR-01Z-00-DX1.F7D36CA5-A4C6-443A-AEED-5B23CD924FA3-1",
+    "image": "TCGA-BRCA/TCGA-A2-A0CR-01Z-00-DX1.F7D36CA5-A4C6-443A-AEED-5B23CD924FA3.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating lobular carcinoma",
+        "confidence": 0.98
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "well-differentiated tumor cells",
+        "confidence": 0.86
+      },
+      "nuclear_pleomorphism": {
+        "label": -1,
+        "text": "nuclear pleomorphism (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is infiltrating lobular carcinoma",
+        "confidence": 0.0
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is infiltrating lobular carcinoma.",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": 2,
+        "text": "glandular/tubular formation (low/absent)",
+        "components": [],
+        "evidence": "The cells exhibit classic features of lobular carcinoma with minimal tubule formation",
+        "confidence": 0.82
+      },
+      "LVI": {
+        "label": 0,
+        "text": "vascular/lymphovascular invasion (present)",
+        "components": [],
+        "evidence": "Angiolymphatic invasion is noted, with tumor cells present within both blood vessels and lymphatic channels",
+        "confidence": 1.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-JL-A3YX-01Z-00-DX1.0FE8F389-F79A-4CF8-A83C-420380A02552-1",
+    "image": "TCGA-BRCA/TCGA-JL-A3YX-01Z-00-DX1.0FE8F389-F79A-4CF8-A83C-420380A02552.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 1,
+        "text": "invasive lobular carcinoma",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is infiltrating lobular carcinoma, grade 1.",
+        "confidence": 0.97
+      },
+      "grade": {
+        "label": 0,
+        "text": "Grade 1",
+        "components": [],
+        "evidence": "diagnosis is infiltrating lobular carcinoma, grade 1",
+        "confidence": 0.98
+      },
+      "nuclear_pleomorphism": {
+        "label": 1,
+        "text": "nuclear pleomorphism (moderate)",
+        "components": [],
+        "evidence": "The neoplastic cells exhibit moderate pleomorphism with nuclear hyperchromasia",
+        "confidence": 0.9
+      },
+      "mitotic_activity": {
+        "label": 1,
+        "text": "mitotic activity (moderate)",
+        "components": [],
+        "evidence": "Few mitotic figures are present, indicating a moderate rate of cell division.",
+        "confidence": 0.93
+      },
+      "tubular_formation": {
+        "label": -1,
+        "text": "glandular/tubular formation (unspecified)",
+        "components": [],
+        "evidence": "diagnosis is infiltrating lobular carcinoma, grade 1",
+        "confidence": 0.0
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is infiltrating lobular carcinoma, grade 1.",
+        "confidence": 0.0
+      }
+    }
+  },
+  {
+    "id": "Report_TCGA-BH-A1FL-01Z-00-DX1.D3E9F46E-9A28-4AAE-8C87-D6F1851227A3-1",
+    "image": "TCGA-BRCA/TCGA-BH-A1FL-01Z-00-DX1.D3E9F46E-9A28-4AAE-8C87-D6F1851227A3.pt",
+    "tasks": {
+      "diagnosis": {
+        "label": 0,
+        "text": "invasive carcinoma (unspecified)",
+        "components": [],
+        "evidence": "epithelial cells infiltrating the stroma",
+        "confidence": 0.23
+      },
+      "grade": {
+        "label": -1,
+        "text": "Unknown",
+        "components": [],
+        "evidence": "diagnosis is ductal carcinoma in situ",
+        "confidence": 0.0
+      },
+      "nuclear_pleomorphism": {
+        "label": -1,
+        "text": "nuclear pleomorphism (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is ductal carcinoma in situ.",
+        "confidence": 0.0
+      },
+      "mitotic_activity": {
+        "label": -1,
+        "text": "mitotic activity (unspecified)",
+        "components": [],
+        "evidence": "the diagnosis is ductal carcinoma in situ",
+        "confidence": 0.0
+      },
+      "tubular_formation": {
+        "label": -1,
+        "text": "glandular/tubular formation (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is ductal carcinoma in situ.",
+        "confidence": 0.0
+      },
+      "LVI": {
+        "label": -1,
+        "text": "vascular/lymphovascular invasion (unspecified)",
+        "components": [],
+        "evidence": "Based on these observations, the diagnosis is ductal carcinoma in situ.",
+        "confidence": 0.0
+      }
+    }
+  }
+]
