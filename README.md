@@ -7,7 +7,7 @@ PathoClass-BRCA: Reframing Pathology Report Generation as Guideline-Aligned Mult
 </h3>
 
 <p align="center">
-  <a href="https://iris.unimore.it/handle/11380/1417328"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b" alt="arXiv"/></a>
+  <a href="https://iris.unimore.it/handle/11380/1417328"><img src="https://img.shields.io/badge/iris.unimore-paper-b31b1b" alt="arXiv"/></a>
   <a href="#-citation"><img src="https://img.shields.io/badge/venue-BMVC%202026-blue" alt="Venue"/></a>
   <a href="#-pathoclass-brca-dataset"><img src="https://img.shields.io/badge/dataset-PathoClass--BRCA-green" alt="Dataset"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey" alt="License"/></a>
@@ -157,8 +157,7 @@ python CLAM/create_patches_fp.py \
 To extract embeddings with UNI, PLIP or GigaPath, refer to `extract_embeddings/` and its own [README](docs/FEATURE_EXTRACTION.md), which describes the scripts and how to launch them in detail.
 
 ## 🚀 Training
-
-UNI, PLIP and GigaPath embeddings are extracted with the scripts in extract_embeddings/ — see the [feature extraction guide](docs/FEATURE_EXTRACTION.md) for commands and options.
+All models are trained through `main.py`, which handles both paradigms: adding `--classification` switches from free-text report generation to multi-task classification — see the [training guide](docs/FEATURE_EXTRACTION.md) for the full command of every model and paradigm.
 
 ## 📊 Evaluation
 
