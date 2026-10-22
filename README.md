@@ -157,7 +157,7 @@ python CLAM/create_patches_fp.py \
 To extract embeddings with UNI, PLIP or GigaPath, refer to `extract_embeddings/` and its own [README](docs/FEATURE_EXTRACTION.md), which describes the scripts and how to launch them in detail.
 
 ## 🚀 Training
-All models are trained through `main.py`, which handles both paradigms: adding `--classification` switches from free-text report generation to multi-task classification — see the [training guide](docs/FEATURE_EXTRACTION.md) for the full command of every model and paradigm.
+All models are trained through `main.py`, which handles both paradigms: adding `--classification` switches from free-text report generation to multi-task classification — see the [training guide](docs/TRAINING.md) for the full command of every model and paradigm.
 
 ## 📊 Evaluation
 
